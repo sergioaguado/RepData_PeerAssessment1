@@ -2,9 +2,9 @@
 
 ## Peer Assessment 1
 
-This is a data analysis developed by Sergio Aguado as required by the first assignment in the [Reproducible Research course of the Specialization in Data Science by Johns Hopkins University through Coursera][1].
+This is a data analysis developed by Sergio Aguado as required by the first assignment in the [Reproducible Research course of the Specialization in Data Science by Johns Hopkins University through Coursera](https://www.coursera.org/course/repdata).
 
-Dataset: Activity monitoring data [52K]
+Dataset: Activity monitoring data downloaded from [here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip)
 
 The variables included in the dataset are:
 
@@ -222,7 +222,3 @@ weekends for example.
 
 
 Author: Sergio Aguado
-
-
-[1]:(https://www.coursera.org/course/repdata)
-[2]:(https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip)
