@@ -154,7 +154,7 @@ the data frame where we have removed the NA cases and estimated the steps.
 totSteps$type <- "beforeEstimated"
 totStepsNA$type <- "afterEstimated"
 
-```
+
 totStepsAll <- rbind(totSteps, totStepsNA)
 
 ggplot(totStepsAll, aes(x = date,  y = steps,  fill = type)) +
